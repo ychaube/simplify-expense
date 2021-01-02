@@ -1,0 +1,2 @@
+(this["webpackJsonpsimplify-expense"]=this["webpackJsonpsimplify-expense"]||[]).push([[0],{10:function(e,n,t){},11:function(e,n,t){"use strict";t.r(n);var i=t(0),s=t(1),c=t.n(s),r=t(3),p=t.n(r);t(9),t(10);var o=function(){return Object(i.jsx)("div",{children:"Simplify Expense"})};p.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.160975e5.chunk.js.map

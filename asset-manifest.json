@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simplify-expense/static/css/main.bab0b925.chunk.css",
+    "main.js": "/simplify-expense/static/js/main.160975e5.chunk.js",
+    "main.js.map": "/simplify-expense/static/js/main.160975e5.chunk.js.map",
+    "runtime-main.js": "/simplify-expense/static/js/runtime-main.ca452458.js",
+    "runtime-main.js.map": "/simplify-expense/static/js/runtime-main.ca452458.js.map",
+    "static/js/2.fea608b1.chunk.js": "/simplify-expense/static/js/2.fea608b1.chunk.js",
+    "static/js/2.fea608b1.chunk.js.map": "/simplify-expense/static/js/2.fea608b1.chunk.js.map",
+    "index.html": "/simplify-expense/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/simplify-expense/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.fea608b1.chunk.js.LICENSE.txt": "/simplify-expense/static/js/2.fea608b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca452458.js",
+    "static/js/2.fea608b1.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.160975e5.chunk.js"
+  ]
+}
